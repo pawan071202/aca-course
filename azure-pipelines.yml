@@ -14,7 +14,7 @@ resources:
 variables:
   IMAGE_NAME: houssemdocker/album-backend-api
   CONTAINERAPPS_APP: album-backend-api
-  CONTAINERAPPS_ENVIRONMENT: managedEnvironment-rgcontainerapps-a475
+  CONTAINERAPPS_ENVIRONMENT: managedEnvironment-rgcontainerapps-84ef
   RESOURCE_GROUP: rg-containerapps-azure-pipelines
   TAG: '$(Build.BuildId)'
 
